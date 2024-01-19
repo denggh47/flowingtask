@@ -8,7 +8,7 @@ export const Footer = () => {
         <Logo />
         <div className="space-x-4 md:block md:w-auto flex items-center justify-between w-full">
           <Button size="sm" variant="ghost">
-            Privacy Policy
+            隐私协议
           </Button>
            <Button size="sm" variant="ghost">
             © Copyright 2024 FlowingTask By denggh

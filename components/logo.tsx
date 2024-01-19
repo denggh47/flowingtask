@@ -15,8 +15,8 @@ export const Logo = () => {
         <Image
           src="/logo.png"
           alt="/logo.png"
-          height={35}
-          width={35}
+          height={30}
+          width={30}
         />
         <p className={cn(
           "text-2xl text-neutral-700 pt-1",
